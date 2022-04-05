@@ -1,0 +1,163 @@
+2022-03-31 19:22:58.153  INFO 14568 --- [restartedMain] c.b.s.SpringBootProjectApplication       : Starting SpringBootProjectApplication using Java 15.0.2 on DESKTOP-8R5D2NM with PID 14568 (E:\.Downloads_Beyza\SpringBootProject\target\classes started by BEYZA in E:\.Downloads_Beyza\SpringBootProject)
+2022-03-31 19:22:58.159  INFO 14568 --- [restartedMain] c.b.s.SpringBootProjectApplication       : No active profile set, falling back to 1 default profile: "default"
+2022-03-31 19:22:58.450  INFO 14568 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2022-03-31 19:22:58.451  INFO 14568 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2022-03-31 19:23:02.865  INFO 14568 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2022-03-31 19:23:02.887  INFO 14568 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-03-31 19:23:02.888  INFO 14568 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.60]
+2022-03-31 19:23:03.068  INFO 14568 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2022-03-31 19:23:03.072  INFO 14568 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 4589 ms
+2022-03-31 19:23:03.852  WARN 14568 --- [restartedMain] ion$DefaultTemplateResolverConfiguration : Cannot find template location: classpath:/templates/ (please add some templates or check your Thymeleaf configuration)
+2022-03-31 19:23:04.239  WARN 14568 --- [restartedMain] .s.s.UserDetailsServiceAutoConfiguration : 
+
+Using generated security password: 3ba3879f-f258-4459-8a06-98a33c7e1b4f
+
+This generated password is for development use only. Your security configuration must be updated before running your application in production.
+
+2022-03-31 19:23:04.442  INFO 14568 --- [restartedMain] o.s.b.a.e.web.EndpointLinksResolver      : Exposing 1 endpoint(s) beneath base path '/actuator'
+2022-03-31 19:23:04.470  INFO 14568 --- [restartedMain] o.s.s.web.DefaultSecurityFilterChain     : Will not secure any request
+2022-03-31 19:23:04.554  INFO 14568 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2022-03-31 19:23:04.664  INFO 14568 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2022-03-31 19:23:04.699  INFO 14568 --- [restartedMain] c.b.s.SpringBootProjectApplication       : Started SpringBootProjectApplication in 10.452 seconds (JVM running for 12.732)
+2022-03-31 19:23:05.478  INFO 14568 --- [RMI TCP Connection(2)-192.168.0.18] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-03-31 19:23:05.480  INFO 14568 --- [RMI TCP Connection(2)-192.168.0.18] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2022-03-31 19:23:05.487  INFO 14568 --- [RMI TCP Connection(2)-192.168.0.18] o.s.web.servlet.DispatcherServlet        : Completed initialization in 6 ms
+2022-03-31 19:23:47.271  INFO 13468 --- [restartedMain] c.b.s.SpringBootProjectApplication       : Starting SpringBootProjectApplication using Java 15.0.2 on DESKTOP-8R5D2NM with PID 13468 (E:\.Downloads_Beyza\SpringBootProject\target\classes started by BEYZA in E:\.Downloads_Beyza\SpringBootProject)
+2022-03-31 19:23:47.277  INFO 13468 --- [restartedMain] c.b.s.SpringBootProjectApplication       : No active profile set, falling back to 1 default profile: "default"
+2022-03-31 19:23:47.440  INFO 13468 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2022-03-31 19:23:47.441  INFO 13468 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2022-03-31 19:23:49.389  INFO 13468 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2022-03-31 19:23:49.399  INFO 13468 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-03-31 19:23:49.399  INFO 13468 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.60]
+2022-03-31 19:23:49.521  INFO 13468 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2022-03-31 19:23:49.522  INFO 13468 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 2079 ms
+2022-03-31 19:23:50.021  WARN 13468 --- [restartedMain] ion$DefaultTemplateResolverConfiguration : Cannot find template location: classpath:/templates/ (please add some templates or check your Thymeleaf configuration)
+2022-03-31 19:23:50.379  WARN 13468 --- [restartedMain] .s.s.UserDetailsServiceAutoConfiguration : 
+
+Using generated security password: f7be332b-c456-44e0-9ad1-0c8ae7045e2a
+
+This generated password is for development use only. Your security configuration must be updated before running your application in production.
+
+2022-03-31 19:23:50.482  INFO 13468 --- [restartedMain] o.s.b.a.e.web.EndpointLinksResolver      : Exposing 1 endpoint(s) beneath base path '/actuator'
+2022-03-31 19:23:50.506  INFO 13468 --- [restartedMain] o.s.s.web.DefaultSecurityFilterChain     : Will not secure any request
+2022-03-31 19:23:50.560  INFO 13468 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2022-03-31 19:23:50.621  INFO 13468 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2022-03-31 19:23:50.653  INFO 13468 --- [restartedMain] c.b.s.SpringBootProjectApplication       : Started SpringBootProjectApplication in 4.534 seconds (JVM running for 9.379)
+2022-03-31 19:24:03.472  INFO 13468 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-03-31 19:24:03.473  INFO 13468 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2022-03-31 19:24:03.474  INFO 13468 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2022-03-31 19:39:11.520  INFO 12236 --- [restartedMain] c.b.s.SpringBootProjectApplication       : Starting SpringBootProjectApplication using Java 16.0.2 on DESKTOP-8R5D2NM with PID 12236 (E:\.Downloads_Beyza\SpringBootProject\target\classes started by BEYZA in E:\.Downloads_Beyza\SpringBootProject)
+2022-03-31 19:39:11.524  INFO 12236 --- [restartedMain] c.b.s.SpringBootProjectApplication       : No active profile set, falling back to 1 default profile: "default"
+2022-03-31 19:39:12.281  INFO 12236 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2022-03-31 19:39:12.282  INFO 12236 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2022-03-31 19:39:15.609  INFO 12236 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2022-03-31 19:39:15.635  INFO 12236 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 10 ms. Found 0 JPA repository interfaces.
+2022-03-31 19:39:17.176  INFO 12236 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2022-03-31 19:39:17.200  INFO 12236 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-03-31 19:39:17.201  INFO 12236 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.60]
+2022-03-31 19:39:17.375  INFO 12236 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2022-03-31 19:39:17.375  INFO 12236 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 5092 ms
+2022-03-31 19:39:17.595  INFO 12236 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2022-03-31 19:39:17.871  INFO 12236 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2022-03-31 19:39:17.886  INFO 12236 --- [restartedMain] o.s.b.a.h2.H2ConsoleAutoConfiguration    : H2 console available at '/h2-console'. Database available at 'jdbc:h2:file:./memory_persist/denemedb'
+2022-03-31 19:39:18.121  INFO 12236 --- [restartedMain] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2022-03-31 19:39:18.188  INFO 12236 --- [restartedMain] org.hibernate.Version                    : HHH000412: Hibernate ORM core version 5.6.7.Final
+2022-03-31 19:39:18.459  INFO 12236 --- [restartedMain] o.hibernate.annotations.common.Version   : HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2022-03-31 19:39:18.594  INFO 12236 --- [restartedMain] org.hibernate.dialect.Dialect            : HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+2022-03-31 19:39:19.028  INFO 12236 --- [restartedMain] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2022-03-31 19:39:19.047  INFO 12236 --- [restartedMain] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+2022-03-31 19:39:19.267  WARN 12236 --- [restartedMain] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2022-03-31 19:39:20.831  WARN 12236 --- [restartedMain] ion$DefaultTemplateResolverConfiguration : Cannot find template location: classpath:/templates/ (please add some templates or check your Thymeleaf configuration)
+2022-03-31 19:39:21.683  WARN 12236 --- [restartedMain] .s.s.UserDetailsServiceAutoConfiguration : 
+
+Using generated security password: 0eef4916-1594-47ca-a253-724707952c2f
+
+This generated password is for development use only. Your security configuration must be updated before running your application in production.
+
+2022-03-31 19:39:21.829  INFO 12236 --- [restartedMain] o.s.b.a.e.web.EndpointLinksResolver      : Exposing 1 endpoint(s) beneath base path '/actuator'
+2022-03-31 19:39:21.846  INFO 12236 --- [restartedMain] o.s.s.web.DefaultSecurityFilterChain     : Will not secure any request
+2022-03-31 19:39:21.943  INFO 12236 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2022-03-31 19:39:22.018  INFO 12236 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2022-03-31 19:39:22.050  INFO 12236 --- [restartedMain] c.b.s.SpringBootProjectApplication       : Started SpringBootProjectApplication in 13.714 seconds (JVM running for 17.84)
+2022-03-31 19:39:41.549  INFO 12236 --- [SpringApplicationShutdownHook] j.LocalContainerEntityManagerFactoryBean : Closing JPA EntityManagerFactory for persistence unit 'default'
+2022-03-31 19:39:41.561  INFO 12236 --- [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2022-03-31 19:39:41.569  INFO 12236 --- [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
+2022-03-31 19:39:59.514  INFO 1308 --- [restartedMain] c.b.s.SpringBootProjectApplication       : Starting SpringBootProjectApplication using Java 16.0.2 on DESKTOP-8R5D2NM with PID 1308 (E:\.Downloads_Beyza\SpringBootProject\target\classes started by BEYZA in E:\.Downloads_Beyza\SpringBootProject)
+2022-03-31 19:39:59.641  INFO 1308 --- [restartedMain] c.b.s.SpringBootProjectApplication       : No active profile set, falling back to 1 default profile: "default"
+2022-03-31 19:39:59.978  INFO 1308 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2022-03-31 19:39:59.979  INFO 1308 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2022-03-31 19:40:07.679  INFO 1308 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2022-03-31 19:40:07.714  INFO 1308 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 12 ms. Found 0 JPA repository interfaces.
+2022-03-31 19:40:09.272  INFO 1308 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2022-03-31 19:40:09.283  INFO 1308 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-03-31 19:40:09.283  INFO 1308 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.60]
+2022-03-31 19:40:09.447  INFO 1308 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2022-03-31 19:40:09.447  INFO 1308 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 9467 ms
+2022-03-31 19:40:09.613  INFO 1308 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2022-03-31 19:40:09.769  INFO 1308 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2022-03-31 19:40:09.783  INFO 1308 --- [restartedMain] o.s.b.a.h2.H2ConsoleAutoConfiguration    : H2 console available at '/h2-console'. Database available at 'jdbc:h2:file:./memory_persist/denemedb'
+2022-03-31 19:40:10.074  INFO 1308 --- [restartedMain] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2022-03-31 19:40:10.203  INFO 1308 --- [restartedMain] org.hibernate.Version                    : HHH000412: Hibernate ORM core version 5.6.7.Final
+2022-03-31 19:40:11.032  INFO 1308 --- [restartedMain] o.hibernate.annotations.common.Version   : HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2022-03-31 19:40:11.319  INFO 1308 --- [restartedMain] org.hibernate.dialect.Dialect            : HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+2022-03-31 19:40:11.814  INFO 1308 --- [restartedMain] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2022-03-31 19:40:11.832  INFO 1308 --- [restartedMain] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+2022-03-31 19:40:12.271  WARN 1308 --- [restartedMain] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2022-03-31 19:40:13.726  WARN 1308 --- [restartedMain] ion$DefaultTemplateResolverConfiguration : Cannot find template location: classpath:/templates/ (please add some templates or check your Thymeleaf configuration)
+2022-03-31 19:40:14.218  WARN 1308 --- [restartedMain] .s.s.UserDetailsServiceAutoConfiguration : 
+
+Using generated security password: c38d8627-405a-4660-9cdb-e8254ff9284e
+
+This generated password is for development use only. Your security configuration must be updated before running your application in production.
+
+2022-03-31 19:40:14.376  INFO 1308 --- [restartedMain] o.s.b.a.e.web.EndpointLinksResolver      : Exposing 1 endpoint(s) beneath base path '/actuator'
+2022-03-31 19:40:14.400  INFO 1308 --- [restartedMain] o.s.s.web.DefaultSecurityFilterChain     : Will not secure any request
+2022-03-31 19:40:14.572  INFO 1308 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2022-03-31 19:40:14.651  INFO 1308 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2022-03-31 19:40:14.682  INFO 1308 --- [restartedMain] c.b.s.SpringBootProjectApplication       : Started SpringBootProjectApplication in 16.398 seconds (JVM running for 21.8)
+2022-03-31 19:40:56.652  INFO 1308 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-03-31 19:40:56.653  INFO 1308 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2022-03-31 19:40:56.658  INFO 1308 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 4 ms
+2022-03-31 19:40:56.895  WARN 1308 --- [http-nio-8080-exec-1] o.a.c.util.SessionIdGeneratorBase        : Creation of SecureRandom instance for session ID generation using [SHA1PRNG] took [147] milliseconds.
+2022-03-31 19:46:31.316  INFO 1308 --- [SpringApplicationShutdownHook] j.LocalContainerEntityManagerFactoryBean : Closing JPA EntityManagerFactory for persistence unit 'default'
+2022-03-31 19:46:31.322  INFO 1308 --- [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2022-03-31 19:46:31.326  INFO 1308 --- [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
+2022-03-31 19:46:43.196  INFO 10692 --- [restartedMain] c.b.s.SpringBootProjectApplication       : Starting SpringBootProjectApplication using Java 16.0.2 on DESKTOP-8R5D2NM with PID 10692 (E:\.Downloads_Beyza\SpringBootProject\target\classes started by BEYZA in E:\.Downloads_Beyza\SpringBootProject)
+2022-03-31 19:46:43.200  INFO 10692 --- [restartedMain] c.b.s.SpringBootProjectApplication       : No active profile set, falling back to 1 default profile: "default"
+2022-03-31 19:46:43.373  INFO 10692 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2022-03-31 19:46:43.374  INFO 10692 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2022-03-31 19:46:45.501  INFO 10692 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2022-03-31 19:46:45.537  INFO 10692 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 15 ms. Found 0 JPA repository interfaces.
+2022-03-31 19:46:46.765  INFO 10692 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2022-03-31 19:46:46.782  INFO 10692 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-03-31 19:46:46.783  INFO 10692 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.60]
+2022-03-31 19:46:46.968  INFO 10692 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2022-03-31 19:46:46.968  INFO 10692 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 3593 ms
+2022-03-31 19:46:47.212  INFO 10692 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2022-03-31 19:46:47.430  INFO 10692 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2022-03-31 19:46:47.459  INFO 10692 --- [restartedMain] o.s.b.a.h2.H2ConsoleAutoConfiguration    : H2 console available at '/h2-console'. Database available at 'jdbc:h2:file:./memory_persist/denemedb'
+2022-03-31 19:46:47.785  INFO 10692 --- [restartedMain] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2022-03-31 19:46:47.861  INFO 10692 --- [restartedMain] org.hibernate.Version                    : HHH000412: Hibernate ORM core version 5.6.7.Final
+2022-03-31 19:46:48.055  INFO 10692 --- [restartedMain] o.hibernate.annotations.common.Version   : HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2022-03-31 19:46:48.255  INFO 10692 --- [restartedMain] org.hibernate.dialect.Dialect            : HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+2022-03-31 19:46:48.721  INFO 10692 --- [restartedMain] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2022-03-31 19:46:48.742  INFO 10692 --- [restartedMain] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+2022-03-31 19:46:49.053  WARN 10692 --- [restartedMain] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2022-03-31 19:46:50.814  WARN 10692 --- [restartedMain] ion$DefaultTemplateResolverConfiguration : Cannot find template location: classpath:/templates/ (please add some templates or check your Thymeleaf configuration)
+2022-03-31 19:46:51.378  WARN 10692 --- [restartedMain] .s.s.UserDetailsServiceAutoConfiguration : 
+
+Using generated security password: ab91c6fe-049d-467b-954c-608b9157c1e6
+
+This generated password is for development use only. Your security configuration must be updated before running your application in production.
+
+2022-03-31 19:46:51.552  INFO 10692 --- [restartedMain] o.s.b.a.e.web.EndpointLinksResolver      : Exposing 1 endpoint(s) beneath base path '/actuator'
+2022-03-31 19:46:51.578  INFO 10692 --- [restartedMain] o.s.s.web.DefaultSecurityFilterChain     : Will not secure any request
+2022-03-31 19:46:51.765  INFO 10692 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2022-03-31 19:46:51.879  INFO 10692 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2022-03-31 19:46:51.916  INFO 10692 --- [restartedMain] c.b.s.SpringBootProjectApplication       : Started SpringBootProjectApplication in 9.827 seconds (JVM running for 12.813)
+2022-03-31 19:46:52.517  INFO 10692 --- [RMI TCP Connection(1)-192.168.0.18] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-03-31 19:46:52.517  INFO 10692 --- [RMI TCP Connection(1)-192.168.0.18] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2022-03-31 19:46:52.522  INFO 10692 --- [RMI TCP Connection(1)-192.168.0.18] o.s.web.servlet.DispatcherServlet        : Completed initialization in 4 ms
+2022-03-31 19:54:39.168  INFO 10692 --- [SpringApplicationShutdownHook] j.LocalContainerEntityManagerFactoryBean : Closing JPA EntityManagerFactory for persistence unit 'default'
+2022-03-31 19:54:39.172  INFO 10692 --- [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2022-03-31 19:54:39.174  INFO 10692 --- [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
